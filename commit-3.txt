@@ -1,0 +1,3 @@
+this is the way to get the 
+perfect practice in the
+git repositories.
