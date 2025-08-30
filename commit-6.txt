@@ -1,0 +1,5 @@
+this is used to crate the 
+git status
+and to get the
+thorough practice for the 
+git
