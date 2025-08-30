@@ -1,0 +1,3 @@
+this commit is created to 
+lern git thorugh
+practice to get the job 
